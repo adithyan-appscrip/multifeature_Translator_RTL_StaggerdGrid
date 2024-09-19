@@ -25,5 +25,6 @@ class ImageHandler {
     'https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg',
     'https://avatars.mds.yandex.net/i?id=b507a2b8d9382967a186c654f1eeaa74-5262078-images-taas-consumers&n=27&h=480&w=480',
     'https://cdn.esawebb.org/archives/images/screen/weic2216b.jpg',
+    'https://cdn.esawebb.org/archives/images/screen/weic2216b.jpg',
   ];
 }

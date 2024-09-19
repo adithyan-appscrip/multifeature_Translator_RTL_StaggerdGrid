@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 const colorApp = Color(0xFFB08888);
 const colorAppLight = Color(0xFFDCECFF);
-const colorJobApp = Color(0xFF390D72);
-const colorJobAppLight = Color(0xFFEDE7F4);
 const Color colorWhite = Colors.white;
 const Color colorBlack = Colors.black;
 const Color lightBlack = Color(0xFF292D32);
